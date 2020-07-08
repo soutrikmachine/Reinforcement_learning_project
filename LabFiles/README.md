@@ -1,11 +1,9 @@
-This library contains the lab files for Microsoft course DAT257x: Reinforcement Learning Explained
+# Reinforcement-Learning-Explained
+This repository contains the lab files for Microsoft course DAT257x: Reinforcement Learning Explained
 
 MIT License
 
-Copyright for portions of these lab files are held by Denny Britz as part of https://github.com/dennybritz/reinforcement-learning. All other copyright for these lab files are held by Microsoft."
-
-Copyright (c) 2016 Denny Britz
-Copyright (c) 2017-present Microsoft
+Copyright (c) 2018 Microsoft
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,3 +22,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
