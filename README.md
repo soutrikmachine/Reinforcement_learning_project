@@ -1,4 +1,4 @@
-This library contains the lab files for Microsoft course DAT257x: Reinforcement Learning Explained
+Reinforcement learning tutorial project.
 
 MIT License
 
